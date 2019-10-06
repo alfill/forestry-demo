@@ -1,7 +1,6 @@
 ---
 label: person
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -37,8 +36,8 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/grady-nerio.md
 - _people/murphy-tiernan.md
+- _people/grady-nerio.md
 - _people/mary-ann-macswain.md
 - _people/charlize-babatunde.md
 - _people/martin-marino.md
